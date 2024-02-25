@@ -5,11 +5,6 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Image Classification using Machine Learning
-
-### Support Vector Approach 
-
-
 <>_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
