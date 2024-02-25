@@ -7,6 +7,8 @@
 
 # Image Classification using Machine Learning
 
+### Support Vector Approach 
+
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
