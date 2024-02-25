@@ -9,7 +9,8 @@
 
 ### Support Vector Approach 
 
-[//]: <>_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+<!--
+<>_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -45,6 +46,8 @@
 # This is an `<h1>` header, which is the largest
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
+
+-->
 
 ### :keyboard: Activity: Edit your file with headers
 
